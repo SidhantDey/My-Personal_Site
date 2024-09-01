@@ -1,0 +1,19 @@
+.name{
+    color: rgb(5, 112, 116);
+}
+body{
+   background-color: rgb(217, 235, 238);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: #f2f2f2;
+}
